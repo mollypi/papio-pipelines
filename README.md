@@ -1,5 +1,7 @@
 # Papio Cloud GitHub Jenkins
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3186f455-fbee-4d11-8521-0f45ff9183bc.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/papio-pipelines?orgId=561911742905)  
+
 This repo generates the base image used for
 the [Papio Pipelines GitHub App](https://github.com/marketplace/papio-pipelines). The image uses the LTS Jenkins Alpine
 Image and installs the plugins defined in [./resources/plugins.txt]()
